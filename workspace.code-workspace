@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Users\\hsh_8\\Documents\\CODERHOUSE-FINAL-PROYECT"
+		},
+		{
+			"path": "..\\..\\..\\Users\\hsh_8\\Documents\\coder-fversion"
+		},
+		{
+			"path": "..\\..\\..\\Users\\hsh_8\\Documents\\practica botstrap"
+		},
+		{
+			"path": "..\\..\\..\\Users\\hsh_8\\Documents\\curso-bootcamp"
+		},
+		{
+			"path": "..\\..\\..\\Users\\hsh_8\\Documents\\portfolio\\ela"
+		},
+		{
+			"path": "..\\..\\..\\Users\\hsh_8\\Documents\\portfolio\\ela-new"
+		},
+		{
+			"path": "..\\..\\..\\Users\\hsh_8\\Documents\\web-quearter"
+		},
+		{
+			"path": "..\\bozati"
+		},
+		{
+			"path": "..\\quarter"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"compile-hero.disable-compile-files-on-did-save-code": true,
+		"cSpell.words": [
+			"COMBINACION",
+			"CONVERSACION",
+			"COTIZACION",
+			"Contacto",
+			"EMPEZEMOS",
+			"centroamerica",
+			"pasion"
+		],
+		"liveServer.settings.multiRootWorkspaceName": null
+	}
+}

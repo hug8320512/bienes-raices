@@ -1,0 +1,104 @@
+
+.contacto{
+    padding: 190px 0;
+    background-image: url('../img/slider/501.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+  }
+  
+  .contacto .contenedor-formulario{
+    background: #fff;
+    min-height: 485px;
+    border-radius: 3px;
+    box-shadow: 0px 9px 32px -1px rgba(0,0,0,0.3);
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .contacto .contenedor-formulario .formulario{
+    width: 50%;
+    padding: 70px;
+  }
+  
+  .contacto .contenedor-formulario .formulario h2{
+    font-size: 1.375rem;
+    line-height: 24px;
+    color: grey;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  
+  .contacto .contenedor-formulario .formulario p{
+    color: #979797;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }
+  
+  .contacto .contenedor-formulario .formulario form input[type="text"], .contacto .contenedor-formulario .formulario form input[type="email"]{
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+    outline: none;
+    width: 100%;
+    margin-bottom: 10px;
+    color: #979797;
+    font-size: 0.9rem;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+  }
+  
+  .contacto .contenedor-formulario .formulario form textarea{
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+    outline: none;
+    width: 100%;
+    max-width: 100%;
+    max-height: 88px;
+    min-height: 88px;
+    color: #979797;
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0;
+  }
+  
+  .contacto .contenedor-formulario .formulario form input[type="submit"]{
+    width: 100%;
+    border: none;
+    border: 1px solid #0089E0;
+    padding: 8px;
+    background: #0089E0;
+    color: #fff;
+    font-size: 0.9rem;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    transition: all .7s ease;
+  }
+  
+  .contacto .contenedor-formulario .formulario form input[type="submit"]:hover{
+    background: #fff;
+    color: #0089E0;
+  }
+  
+  .contacto .contenedor-formulario .foto{
+    width: 50%;
+    background-image: url('../img/slider/500.jpg');
+    background-size: cover;
+  }
+  
+  /*Validacion formulario*/
+  
+.contacto .contenedor-formulario .formulario form .error{
+    display: none;
+    color: #ff8c8c;
+    font-size: 12px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+  }
+  

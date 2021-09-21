@@ -1,0 +1,1 @@
+<div class="col-12 my-5"> No encontramos resultados con tus criterios de busqueda, por favor intenta con otros filtros</div>
